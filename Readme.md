@@ -42,22 +42,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/jayendrachoudhary911/jayendrachoudhary911/output/snake.svg" alt="Snake animation" />
-
-###
-
 <br clear="both">
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/jayendrachoudhary911/count.svg?"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=jayendrachoudhary911&theme=dark" alt="Layout with last medium posts"  />
 </div>
 
 ###
