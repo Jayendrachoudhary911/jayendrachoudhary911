@@ -20,6 +20,24 @@
 
 ###
 
+<h2 align="left">My social media</h2>
+
+###
+
+<div align="left">
+  <a href="www.linkedin.com/in/jayendra-choudhary-ab17362b7" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="278" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/jayendrachoudhary_111/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="278" height="40" alt="instagram logo"  />
+  </a>
+  <a href="mailto:cjayendra911@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="278" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
 <h2 align="left">I code with</h2>
 
 ###
