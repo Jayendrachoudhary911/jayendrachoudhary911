@@ -4,7 +4,7 @@
 
 I'm currently based in Alwar and passionate about creating solutions that not only serve my needs, but are useful for everyone.
 
----
+
 
 ## 🚀 About Me
 
@@ -14,7 +14,7 @@ I'm currently based in Alwar and passionate about creating solutions that not on
 - 🎯  **Goal:** Build tools and applications that people love to use.
 - 💡  **Fun Fact:** Always up for learning something new, whether it’s in tech or beyond.
 
----
+
 
 
 ## 🌐 Socials:
