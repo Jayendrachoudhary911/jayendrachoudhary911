@@ -1,59 +1,53 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# 👋 Hi, I'm Jayendra Choudhary!
 
-###
+### 🛡️ Cyber Security Enthusiast & Aspiring Full-Stack Developer
 
-<p align="left">I'm Jayendra choudhary and I'm a Cyber Security Student, from Alwar</p>
+I'm currently based in Alwar and passionate about creating solutions that not only serve my needs, but are useful for everyone.
 
-###
+---
 
-<h2 align="left">About me</h2>
+## 🚀 About Me
 
-###
+- 👨‍💻  **Programming since 2023** — began publishing my projects on GitHub from March 2024.
+- 📚  **Currently Learning:** C language & deepening my security knowledge.
+- 🏗️  **Full-Stack Web Developer** — passionate about building robust, scalable web applications from end to end.
+- 🎯  **Goal:** Build tools and applications that people love to use.
+- 💡  **Fun Fact:** Always up for learning something new, whether it’s in tech or beyond.
 
-<p align="left">✨ Creating Programs since 2023...but started posting them from March 2024<br>📚 I'm currently learning C language<br>🎯 Goals: To create what I and everyone uses.<br>🎲 Fun fact: also a Frontend Web Developer (soon Frontend will be replaced by Full-stack Web Developer)</p>
+---
 
-###
 
-<h2 align="left">My social media🌐</h2>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jayendrachoudhary_111) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jayendrachoudhary) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cjayendra911@gmail.com) 
 
-###
+*Let’s build something great together!*
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/jayendra-choudhary-ab17362b7" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/jayendrachoudhary_111/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="mailto:cjayendra911@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+## Tech Stack
 
-###
+**Client:** React, TailwindCSS, HTML, CSS, JavaScript, TypeScript, React Native, Flutter (learning), BootStrap, MaterialUI3
 
-<h2 align="left">I code with</h2>
+**Server:** Node.js, Express, Python, Apache
 
-###
+**Databases & Cloud:** MySQL, SQLite, MongoDB, Firebase, Google Cloud
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
+**Deployment/Platforms:** Heroku, Vercel
 
-###
+**Tools:** VS Code, Git, GitHub, Figma, Android Studio, PyCharm, XAMPP
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/jayendrachoudhary911/count.svg?"  />
-</div>
 
-###
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jayendrachoudhary911&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=jayendrachoudhary911&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jayendrachoudhary911&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jayendrachoudhary911&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=jayendrachoudhary911&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=jayendrachoudhary911&icon=0&color=2)](https://visitcount.itsvg.in)
