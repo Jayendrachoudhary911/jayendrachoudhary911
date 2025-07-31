@@ -50,4 +50,3 @@ I'm currently based in Alwar and passionate about creating solutions that not on
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jayendrachoudhary911&icon=0&color=2)](https://visitcount.itsvg.in)
-![](https://komarev.com/ghpvc/?username=Jayendrachoudhary911)
