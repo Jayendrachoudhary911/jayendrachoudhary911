@@ -11698,7 +11698,7 @@
       "name": "Asciiprofile-heatmap Widget",
       "position": {
         "x": 24,
-        "y": 1840
+        "y": 1758
       },
       "size": {
         "width": 752,
@@ -11730,7 +11730,7 @@
       "name": "Godprofile-marquee Widget",
       "position": {
         "x": 24,
-        "y": 1512
+        "y": 1428
       },
       "size": {
         "width": 752,
@@ -11775,7 +11775,7 @@
       "name": "Godprofile-trophies Widget",
       "position": {
         "x": 24,
-        "y": 2064
+        "y": 2014
       },
       "size": {
         "width": 752,
@@ -11798,7 +11798,7 @@
       "name": "Codeweb-minimal-badge Widget",
       "position": {
         "x": 0,
-        "y": 2336
+        "y": 2286
       },
       "size": {
         "width": 800,
@@ -11878,7 +11878,7 @@
       "name": "Surveillance-loadout Widget",
       "position": {
         "x": 24,
-        "y": 1616
+        "y": 1534
       },
       "size": {
         "width": 752,
@@ -11957,7 +11957,7 @@
   "templateId": "terminal",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1790444331342_qdbas",
-    "updatedAt": "2026-09-26T17:38:54.811Z"
+    "revision": "rev_1790444475291_tt883",
+    "updatedAt": "2026-09-26T17:41:17.802Z"
   }
 }
