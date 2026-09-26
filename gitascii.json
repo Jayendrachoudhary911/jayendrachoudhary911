@@ -11603,7 +11603,7 @@
         "showTopRepos": true,
         "animated": true,
         "customName": "",
-        "customRoles": "Full-Stack Development, Cybersecurity & SOC, Product & UI/UX",
+        "customRoles": "Full-Stack Development, Cybersecurity &amp; SOC, Product &amp; UI/UX",
         "showLanguages": false
       },
       "locked": false,
